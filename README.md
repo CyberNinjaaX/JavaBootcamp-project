@@ -1,7 +1,7 @@
 # Spring Boot Student Profile & Task Management API
 
 ## Author
-**Name:** Mohd Fahad ALi       
+**Name:** Mohd Fahad Ali       
 **Roll No:** 160923733017  
 
 ---
